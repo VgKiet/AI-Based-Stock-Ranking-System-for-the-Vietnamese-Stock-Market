@@ -1,0 +1,7 @@
+data/data_full_market.csv
+
+.env
+__pycache__/
+*.pyc
+data/prices.db-shm
+data/prices.db-wal
