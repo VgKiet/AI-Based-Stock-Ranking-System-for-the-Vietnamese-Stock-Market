@@ -1,6 +1,6 @@
 # TopRank CK
 
-Hệ thống nhận diện xu hướng và xếp hạng cổ phiếu Việt Nam. Dùng mô hình học máy dự đoán xu hướng **Tăng / Đi ngang / Giảm** sau H phiên, kết hợp bộ lọc **SEPA**, cảnh báo **break out thất bại**, backtest chỉ báo **Euphoria** và gửi kết quả qua **Telegram**.
+Hệ thống nhận diện xu hướng và xếp hạng cổ phiếu Việt Nam. Dùng mô hình học máy dự đoán xu hướng **Tăng / Đi ngang / Giảm** sau H phiên, kết hợp bộ lọc **SEPA**, cảnh báo **break out thất bại**, backtest chỉ báo **Euphoria** .
 
 > ⚠️ **Lưu ý:** Dự án phục vụ học tập và nghiên cứu, không phải khuyến nghị đầu tư. Mọi quyết định mua bán do bạn tự chịu trách nhiệm.
 
